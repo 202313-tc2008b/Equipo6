@@ -1,0 +1,10 @@
+{
+    "car_{num}_pos" : [x_pos,0,z_pos],
+    "car_{num}_rot": [0,y_rot,0],
+    "car_{num}_traffic_light": traffic_light_dist,
+    "car_{num}_dist_infront": dist_infront,
+    "isIngTurnabout":"x",
+    "turnAboutEntry":"east",
+    "turnaboutExit":"west",
+    "Orientation":"NORTH"
+}
